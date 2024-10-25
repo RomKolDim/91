@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 
 // Рекурсивная функция Аккермана
 int ackermann(int m, int n) {
